@@ -1,0 +1,59 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Nav Bar */
+.ourbrand {
+  font-size: 30px;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: blue;
+}
+.list-group-item {
+  color: blue;
+}
+
+/* Carousel */
+.car-slide {
+  height: 500px;
+  width: 900px;
+}
+
+/* About Us Goals */
+.about-us-card {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  background-color: blue;
+  color: white;
+  height: 400px;
+  padding: 80px 300px;
+}
+.card-img-about {
+  height: 200px;
+  width: 300px;
+  border-radius: 20%;
+}
+
+/* Contact Us and Social Media */
+.social-icon {
+  color: blue;
+  margin-right: 70px;
+}
+.icon-group {
+  padding-left: 600px;
+  padding-bottom: 20px;
+}
+.copy-right {
+  color: blue;
+  font-size: 1rem;
+}
