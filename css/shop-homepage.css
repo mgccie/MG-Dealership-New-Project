@@ -1,0 +1,73 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Nav Bar */
+.ourbrand {
+  font-size: 30px;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: blue;
+}
+.list-group-item {
+  color: blue;
+}
+
+/* Carousel */
+.car-slide {
+  height: 500px;
+  width: 900px;
+}
+h5 {
+  font-weight: bolder;
+}
+.about-card {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+/* About Us Goals */
+.about-us-card {
+  text-align: center;
+  /* font-weight: bold; */
+  /* font-size: 5px; */
+  background-color: blue;
+  color: white;
+  height: 400px;
+  padding: 80px 300px;
+  line-height: 1.5;
+}
+.card-img {
+  height: 600px;
+}
+
+/* Contact Us and Social Media */
+.social-icon {
+  color: white;
+  margin-right: 70px;
+  text-align: center;
+}
+.social {
+  margin: 0 30px 5px 20px;
+}
+.copy-right {
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding: 2% 7% 0 0;
+}
+#footer {
+  padding: 7% 15%;
+}
